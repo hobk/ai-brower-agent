@@ -1,0 +1,31 @@
+export const STEP_TYPES = {
+  AI_ACTION: 'aiAction',
+  AI_TAP: 'aiTap',
+  AI_DOUBLE_CLICK: 'aiDoubleClick',
+  AI_RIGHT_CLICK: 'aiRightClick',
+  AI_INPUT: 'aiInput',
+  AI_HOVER: 'aiHover',
+  AI_SCROLL: 'aiScroll',
+  AI_KEYBOARD_PRESS: 'aiKeyboardPress',
+  AI_ASSERT: 'aiAssert',
+  AI_QUERY: 'aiQuery',
+  AI_WAIT_FOR: 'aiWaitFor',
+  NAVIGATE: 'navigate',
+  RELOAD: 'reload',
+}
+
+export const STEP_TYPE_LABELS = {
+  [STEP_TYPES.AI_ACTION]: 'AI 智能执行',
+  [STEP_TYPES.AI_TAP]: 'AI 点击',
+  [STEP_TYPES.AI_DOUBLE_CLICK]: 'AI 双击',
+  [STEP_TYPES.AI_RIGHT_CLICK]: 'AI 右键点击',
+  [STEP_TYPES.AI_INPUT]: 'AI 输入',
+  [STEP_TYPES.AI_HOVER]: 'AI 悬停',
+  [STEP_TYPES.AI_SCROLL]: 'AI 滚动',
+  [STEP_TYPES.AI_KEYBOARD_PRESS]: 'AI 按键',
+  [STEP_TYPES.AI_ASSERT]: 'AI 断言',
+  [STEP_TYPES.AI_QUERY]: 'AI 查询',
+  [STEP_TYPES.AI_WAIT_FOR]: 'AI 等待',
+  [STEP_TYPES.NAVIGATE]: '导航到URL',
+  [STEP_TYPES.RELOAD]: '刷新页面',
+}
