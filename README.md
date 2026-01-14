@@ -4,10 +4,10 @@
 
 **下一代智能浏览器自动化解决方案**
 
-[![Vue 3](https://img.shields.io/badge/Vue-3.x-42b883? style=flat-square&logo=vue. js)](https://vuejs.org/)
+[![Vue 3](https://img.shields.io/badge/Vue-3.x-42b883?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-green? style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 [English](README.en.md) | 简体中文
 
