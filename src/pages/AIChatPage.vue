@@ -237,7 +237,7 @@ let reconnectAttempts = 0
 
 // 系统自动登录配置（前端平台登录）
 const SYSTEM_LOGIN_EMAIL = 'hu.bo2@trs.com.cn'
-const SYSTEM_LOGIN_PASSWORD = 'h00peradmin'
+const SYSTEM_LOGIN_PASSWORD = '@pa123sw0rd1'
 
 // 默认打开的URL
 const DEFAULT_URL = 'https://www.baidu.com'
