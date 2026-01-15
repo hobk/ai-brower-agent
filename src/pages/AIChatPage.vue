@@ -360,7 +360,7 @@ const startSession = async () => {
     addMessage('✅ 已打开默认页面，现在为您演示当前页面的操作，请等待演示完毕后可自行操作', 'assistant')
     
     // 发送演示消息
-    const demoMessage = '【演示】搜索esa产品，然后找到定价'
+    const demoMessage = '【演示】搜索esa产品，然后找到产品功能'
     await new Promise(resolve => setTimeout(resolve, 500))
     addMessage(demoMessage, 'user')
     
