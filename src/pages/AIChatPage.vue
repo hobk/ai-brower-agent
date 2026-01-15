@@ -388,7 +388,7 @@ const startSession = async () => {
       })
     }
   } catch (e) {
-    if(e.meesage.indexOf('401')!==-1){
+    if(e.message.indexOf('401')!== -1){
       addMessage(`授权过期，正在为您重新初始化系统...`,'assistant')
       // 重新登录
       authToken.clear()
